@@ -1,3 +1,7 @@
+
 name,ring,quadrant,isNew,description
-Applying product management to internal platforms,Adopt,Techniques,FALSE,"<p>More and more companies are building internal platforms to roll out new digital solutions quickly and efficiently. Companies that succeed with this strategy are <strong>applying product management to internal platforms</strong>. This means establishing empathy with internal consumers (the development teams) and collaborating with them on the design. Platform product managers create roadmaps and ensure the platform delivers value to the business and enhances the developer experience. Unfortunately, we're also seeing less successful approaches, where teams create a platform in the void, based on unverified assumptions and without internal customers. These platforms, often despite aggressive internal tactics, end up being underutilized and a drain on the organization's delivery capability. As usual, good product management is all about building products that consumers love.</p>"
-Infrastructure as code,Adopt,Techniques,FALSE,"<p>Although <strong>infrastructure as code</strong> is a relatively old technique it is now extra important"
+.Net Core,Trial,languages-and-frameworks,TRUE,None
+Java,Adopt,languages-and-frameworks,TRUE,None
+Automated testing,Trial,Techniques,TRUE,None
+Selenium,Trial,Tools,TRUE,Still none
+Linux,Trial,Platforms,True,Nope still none
